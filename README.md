@@ -50,7 +50,10 @@ git clone https://github.com/アカウント名/課題名-アカウント名.git
 
 ### 7. Pull Request（プルリクエスト）
 1. 自分のアカウント上のリポジトリ「課題名-アカウント名」にブラウザからアクセスします。
-2. 「Pull request」ボタンをクリックします。
+2. 「New pull request」ボタンをクリックします。
+![キャプチャ](image9.jpeg)
 3. 「Comparing changes」画面で変更内容を確認し、「Create pull request」ボタンをクリックします。
+![キャプチャ](image10.jpg)
 4. コメントを入力し、「Create pull request」ボタンをクリックします。
+![キャプチャ](image11.jpeg)
 5. 組織アカウント「yu-enpit」上のFork元のリポジトリ「課題名-アカウント名」に Pull Request が送信されます。
