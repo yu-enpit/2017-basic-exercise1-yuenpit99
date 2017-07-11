@@ -34,7 +34,7 @@ git clone https://github.com/アカウント名/課題名-アカウント名.git
 
 ### 5. Commit（コミット）
 1. ツールウィンドウ「Version Control」を表示します。
-2. Defaultを右クリック > Commit Changes... をクリックします。
+2. 「Default」を右クリック > 「Commit Changes...」 をクリックします。
 3. Commit Messageにコメント「TextViewのtextを修正。」を入力し、「Commit」ボタンをクリックします。
 
 ### 6. Push（プッシュ）
