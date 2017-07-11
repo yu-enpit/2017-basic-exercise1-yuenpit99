@@ -29,8 +29,8 @@ git clone https://github.com/アカウント名/課題名-アカウント名.git
 ### 4. プログラム修正
 1. ローカルにクローンしたリポジトリ「課題名-アカウント名」をAndroid Studioで開きます。
 2. 「activity_main.xml」を開きます。
-3. DesignペインでTextView「Hello World!」を選択します。
-4. Propertiesペインでtextを「Hello enPiT」に修正します。
+3. 「Design」ペインでTextView「Hello World!」を選択します。
+4. 「Properties」ペインでtextを「Hello enPiT」に修正します。
 
 ### 5. Commit（コミット）
 1. ツールウィンドウ「Version Control」を表示します。
